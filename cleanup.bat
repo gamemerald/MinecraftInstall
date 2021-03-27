@@ -1,1 +1,1 @@
-del /f C:\tmp.bat
+del /f C:\tmp.msi
