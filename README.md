@@ -1,0 +1,2 @@
+# MinecraftInstall
+AutoInstall Minecraft Launcher
